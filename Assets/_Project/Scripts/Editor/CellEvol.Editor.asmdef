@@ -2,12 +2,12 @@
     "name": "CellEvol.Editor",
     "rootNamespace": "",
     "references": [
-        ""
+        "NewAssembly"
     ],
-    "includePlatforms": [],
-    "excludePlatforms": [
+    "includePlatforms": [
         "Editor"
     ],
+    "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
