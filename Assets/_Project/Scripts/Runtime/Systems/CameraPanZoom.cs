@@ -64,7 +64,6 @@ namespace CellEvol.System
 
         private void Update()
         {
-            Debug.Log(joystick.Value);
             if (!enabled) return;
 
             Vector2 input = joystick.Value;
