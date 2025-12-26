@@ -230,6 +230,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GeneNodeButton10
       objectReference: {fileID: 0}
+    - target: {fileID: 6184326664970736137, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4393a23ee4225c942bc49cf8ca6f2c66, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -359,6 +363,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GeneNodeButton18
       objectReference: {fileID: 0}
+    - target: {fileID: 6184326664970736137, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4393a23ee4225c942bc49cf8ca6f2c66, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -567,6 +575,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GeneNodeButton17
       objectReference: {fileID: 0}
+    - target: {fileID: 6184326664970736137, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4393a23ee4225c942bc49cf8ca6f2c66, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -875,6 +887,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GeneNodeButton7
       objectReference: {fileID: 0}
+    - target: {fileID: 6184326664970736137, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4393a23ee4225c942bc49cf8ca6f2c66, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1004,6 +1020,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GeneNodeButton2
       objectReference: {fileID: 0}
+    - target: {fileID: 6184326664970736137, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4393a23ee4225c942bc49cf8ca6f2c66, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1270,6 +1290,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GeneNodeButton4
       objectReference: {fileID: 0}
+    - target: {fileID: 6184326664970736137, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4393a23ee4225c942bc49cf8ca6f2c66, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1481,6 +1505,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GeneNodeButton13
       objectReference: {fileID: 0}
+    - target: {fileID: 6184326664970736137, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4393a23ee4225c942bc49cf8ca6f2c66, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1610,6 +1638,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GeneNodeButton8
       objectReference: {fileID: 0}
+    - target: {fileID: 6184326664970736137, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4393a23ee4225c942bc49cf8ca6f2c66, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1739,6 +1771,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GeneNodeButton12
       objectReference: {fileID: 0}
+    - target: {fileID: 6184326664970736137, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4393a23ee4225c942bc49cf8ca6f2c66, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1868,6 +1904,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GeneNodeButton6
       objectReference: {fileID: 0}
+    - target: {fileID: 6184326664970736137, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4393a23ee4225c942bc49cf8ca6f2c66, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1997,6 +2037,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GeneNodeButton3
       objectReference: {fileID: 0}
+    - target: {fileID: 6184326664970736137, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4393a23ee4225c942bc49cf8ca6f2c66, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2126,6 +2170,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GeneNodeButton5
       objectReference: {fileID: 0}
+    - target: {fileID: 6184326664970736137, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4393a23ee4225c942bc49cf8ca6f2c66, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2255,6 +2303,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GeneNodeButton14
       objectReference: {fileID: 0}
+    - target: {fileID: 6184326664970736137, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4393a23ee4225c942bc49cf8ca6f2c66, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2518,6 +2570,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GeneNodeButton11
       objectReference: {fileID: 0}
+    - target: {fileID: 6184326664970736137, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4393a23ee4225c942bc49cf8ca6f2c66, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2652,6 +2708,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GeneNodeButton9
       objectReference: {fileID: 0}
+    - target: {fileID: 6184326664970736137, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4393a23ee4225c942bc49cf8ca6f2c66, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2874,6 +2934,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GeneNodeButton15
       objectReference: {fileID: 0}
+    - target: {fileID: 6184326664970736137, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4393a23ee4225c942bc49cf8ca6f2c66, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3003,6 +3067,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GeneNodeButton16
       objectReference: {fileID: 0}
+    - target: {fileID: 6184326664970736137, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4393a23ee4225c942bc49cf8ca6f2c66, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3113,6 +3181,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2525195272486718522, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
+      propertyPath: m_Colors.m_NormalColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2525195272486718522, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1817210024}
@@ -3120,6 +3192,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GeneNodeButton1
       objectReference: {fileID: 0}
+    - target: {fileID: 6184326664970736137, guid: 3940f666b1c032c4a89b06868eccd8e9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4393a23ee4225c942bc49cf8ca6f2c66, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
